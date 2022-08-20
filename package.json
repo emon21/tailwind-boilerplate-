@@ -1,15 +1,15 @@
 {
-  "name": "html-project",
+  "name": "tailwind-playlist",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tailwind CSS Playlist lessons by Learn with Sumit",
   "main": "index.js",
   "scripts": {
-    "build" : "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w"
+    "build": "tailwindcss -i ./src/tailwind.css -o ./output/tailwind.css -w"
   },
   "keywords": [],
-  "author": "",
+  "author": "Learn with Sumit",
   "license": "ISC",
   "devDependencies": {
-    "tailwindcss": "^3.1.8"
+    "tailwindcss": "^2.2.17"
   }
 }
